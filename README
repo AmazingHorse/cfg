@@ -9,8 +9,8 @@
 
 Install config tracking in your $HOME by running:
 
-  curl -Lks bit.do/ah-config-install | /bin/bash
+  curl -Lks http://bit.do/ah-cfg | /bin/bash
 
 The expanded url is at:
 
-https://github.com/amazinghorse/cfg/src/master/.bin/install.sh
+https://raw.githubusercontent.com/AmazingHorse/cfg/master/.bin/install.sh
