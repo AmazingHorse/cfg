@@ -1,4 +1,4 @@
-# Dotfiles for [@durdn](http://twitter.com/durdn)
+# Dotfiles for [amazinghorse](http://github.com/amazinghorse)
 
 ## Requirements
 
@@ -9,8 +9,8 @@
 
 Install config tracking in your $HOME by running:
 
-  curl -Lks bit.do/config-install | /bin/bash
+  curl -Lks bit.do/ah-config-install | /bin/bash
 
 The expanded url is at:
 
-https://bitbucket.org/durdn/cfg/src/master/.bin/install.sh
+https://github.com/amazinghorse/cfg/src/master/.bin/install.sh
